@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1762767197614" clover="3.2.0">
+  <project timestamp="1762767197614" name="All files">
+    <metrics statements="71" coveredstatements="64" conditionals="19" coveredconditionals="17" methods="8" coveredmethods="8" elements="98" coveredelements="89" complexity="0" loc="71" ncloc="71" packages="6" files="7" classes="7"/>
+    <package name="client.src.components">
+      <metrics statements="6" coveredstatements="6" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="Button.jsx" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\client\src\components\Button.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="15" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="24" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.src">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.js" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\server\src\app.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.src.middleware">
+      <metrics statements="13" coveredstatements="11" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="auth.js" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\server\src\middleware\auth.js">
+        <metrics statements="13" coveredstatements="11" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="7" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.src.models">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Post.js" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\server\src\models\Post.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="User.js" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\server\src\models\User.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.src.routes">
+      <metrics statements="37" coveredstatements="32" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="postRoutes.js" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\server\src\routes\postRoutes.js">
+        <metrics statements="37" coveredstatements="32" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="48" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.src.utils">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="auth.js" path="C:\Users\alpho\Desktop\MERN-HW\testing-and-debugging-ensuring-mern-app-reliability-Onlyalphy\server\src\utils\auth.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
